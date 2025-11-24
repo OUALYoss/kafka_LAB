@@ -23,6 +23,7 @@ kafka_LAB/
 │
 └── README.md
 
+
 ## The Environment
 => Start ZooKeeper
 cd kafka_2.13-3.x.x
